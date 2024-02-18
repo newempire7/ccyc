@@ -1,30 +1,30 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "dogeonK",
-    image: "/dogeon.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "backend developer",
-    bio: "꿈을 이뤄보자",
-    email: "kimdogeon1@gmail.com",
-    github: "dogeonK",
+    name: "청춘예찬",
+    image: "/avatar_logo.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "DDM community",
+    bio: " 동대문구 청년 성장 멘토링 커뮤니티",
+    email: "newempire.biz@gmail.com",
+    github: "",
     linkedin: "",
-    instagram: "dogeon._.b",
+    instagram: "",
   },
   projects: [
     {
-      name: `myEmoji`,
+      name: `청춘예찬`,
       href: "",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "dogeonLog",
-    description: "welcome to dogeon-log!",
+    title: "청춘예찬",
+    description: "welcome to ccyc-log!",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-dogeon.vercel.app",
+  link: "https://ccyc.vercel.app",
   since: 2023, // If leave this empty, current year will be used.
   lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
